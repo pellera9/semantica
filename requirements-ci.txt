@@ -1287,9 +1287,9 @@ doclang==0.7.3 \
     --hash=sha256:9440c4ca9f7e061a7b8d33bdf15b1029be69a4c13cd8952dd6ce541884e4c685 \
     --hash=sha256:ca50615357e46ebf9597bb9065b9112367103ec24bd539f8ae12649224cf50b0
     # via docling-core
-docling==2.124.0 \
-    --hash=sha256:822474679fc3f14081db8a5aa985057de3ec889390fc24534a8c269225af0b48 \
-    --hash=sha256:bff775aea776429e3bc1d20972dc173e80cd748b1202ebadc4c3ab64c156cdb5
+docling==2.131.0 \
+    --hash=sha256:6a6b9e86780eba4db3b03796171f2f3cbdd569e4a3b5a75c8d74b40294523aee \
+    --hash=sha256:dc04d26869edef8cc02199fb45fbffedfff4308076d5059f2bb4a9e149f590a4
     # via semantica (pyproject.toml)
 docling-core==2.99.0 \
     --hash=sha256:2ce0bae815de8139e8c0dc93736ba613609db777c3cbe392d9ec76bfabec6104 \
@@ -1329,9 +1329,9 @@ docling-parse==7.16.0 \
     --hash=sha256:ea261b705ffd1cac97b0ca2eab656b2fe4434ff4876be38eddf0b2c9bb582133 \
     --hash=sha256:f1abfe050b670bcb25c7bcefc5d876bc3561949c1bff177e8a8a3d8d6f217314
     # via docling-slim
-docling-slim==2.124.0 \
-    --hash=sha256:2c7c667394d3eae9080bc15143ed6f1d39a4838090d9e3f29be212606e6676bd \
-    --hash=sha256:f38f0fb4d325d189cd2bae4ff53c236582191b211e39ec0c565a5d619ac700b3
+docling-slim==2.134.0 \
+    --hash=sha256:63f12c79bdd0bbe205f244f97f0a8640c590ea46de4d913d23e963ec57e531dd \
+    --hash=sha256:818b350e1e9878c0d54bd4ff972bd1918cc9827f193257162cc6f3a797175c29
     # via docling
 docstring-parser==0.18.0 \
     --hash=sha256:292510982205c12b1248696f44959db3cdd1740237a968ea1e2e7a900eeb2015 \
